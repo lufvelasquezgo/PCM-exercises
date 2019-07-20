@@ -1,3 +1,3 @@
 # PCM-exercises
 
-Hear I'm going to pull the new topics and presentations that people share with us, because sometimes I forget the place where I save them.
+Here I'm going to pull the new topics and presentations that people share with us, because sometimes I forget the place where I save them.
